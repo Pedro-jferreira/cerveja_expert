@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">primeiro projeto</string>
+    <string name="button_salvar">salvar</string>
+    <string-array name="tipos_cerveja">
+        <item>Pilsen</item>
+        <item>Lager</item>
+        <item>Weiss</item>
+        <item>IPA</item>
+        <item>Stout</item>
+    </string-array>
+</resources>
